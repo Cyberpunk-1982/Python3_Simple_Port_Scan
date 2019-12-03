@@ -1,6 +1,8 @@
 #! /usr/bin/python3
 
-# Copyright 2019 Eliseu Silva Torres
+""" 
+	Copyright 2019 Eliseu Silva Torres
+"""
 
 import socket, sys
 
